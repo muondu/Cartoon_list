@@ -1,6 +1,6 @@
 channels = {
     "Bickolodean" : "Thundermans"
-    "Boomerang" : "Tom and Jerry"
+    "Boomerang" : "Tom and Jerry",
     "Disney XD" : "Lab Rats"
 }
 print("Channels")
