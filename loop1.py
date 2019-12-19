@@ -3,7 +3,7 @@ channels = {
     "Boomerang" : "Tom and Jerry",
     "Disney XD" : "Lab Rats"
 }
-print("Channels")
+print(channels)
 input1 = input("How many things do you want:  ")   
 constructor = list()
 
